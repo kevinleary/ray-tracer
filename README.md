@@ -2,7 +2,7 @@
 Creating a ray-tracer in C++ to refresh on the language as well as learn how to paint graphics. Used Peter Shirley's "Ray Tracing in One Weekend"
 ## Chapter 1: Creating an Image (PPM)
 The result of chapter 1 looks like ![this](/images/output.png)
-'''c++
+```c++
 int nx = 200;
     int ny = 100;
     //ADDED OUTPUT TO TXT FILE -- HOPEFULLY WORKS
@@ -23,4 +23,4 @@ int nx = 200;
         }
     } 
     output.close();
-'''
+```
