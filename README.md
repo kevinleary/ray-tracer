@@ -3,8 +3,8 @@ Creating a ray-tracer in C++ to refresh on the language as well as learn how to 
 
 Create/Run a C++ exe in Bash by doing...
 ```bash
-g++ example.cpp -o example
-./example
+$ g++ example.cpp -o example
+$ ./example
 ```
 ## Chapter 1: Creating an Image (PPM)
-The result of chapter 1 looks like ![this](/images/output.png)
+The result of chapter 1 looks like ![this](/images/chapter1&2.png)
