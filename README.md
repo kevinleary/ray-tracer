@@ -15,7 +15,8 @@ We create a TXT file that lays-out the pixels for our PPM file. We then convert 
 We create a vector class with overloaded functions and constructors for us to create and use vectors in our Ray-tracer
 
 ## Chapter 3: Rays, a simple camera, and a background
-We next create a Ray using a ray function and class defined as p(t) = A + t*B where A and B are vec3 vectors and A is origin while B is direction. The result of Chapter 3 looks like 
+We next create a Ray using a ray function and class defined as p(t) = A + t*B where A and B are vec3 vectors and A is origin while B is direction. The result of Chapter 3 looks like
+
 ![this.](/images/chapter3.png)
 
 ## Chapter 4: Adding a sphere
